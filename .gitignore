@@ -1,0 +1,7 @@
+.env
+node_modules/
+dist/
+*.exe
+*.test
+work/
+frontend/.npm-cache/
